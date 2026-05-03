@@ -11,20 +11,6 @@
 
 ---
 
-# 💫 About Me:
-
-💡 I turn ideas into **functional, scalable products** — from UI to backend  
-
-📱 Currently building and experimenting with **Android + Full Stack (React, Firebase, APIs)**  
-🔐 Interested in **security, system thinking, and real-world problem solving**  
-
-🤝 Always up for **hackathons, collaborations, and ambitious builds**  
-💬 Let’s talk about **tech, startups, or anything that challenges thinking**  
-
-⚡ Fun fact: I play guitar — it’s where I go when I want to solve problems without a compiler 🎸  
-
----
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -45,10 +31,25 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
+# 💫 About Me:
+
+💡 I turn ideas into **functional, scalable products** — from UI to backend  
+
+📱 Currently building and experimenting with **Android + Full Stack (React, Firebase, APIs)**  
+🔐 Interested in **security, system thinking, and real-world problem solving**  
+
+🤝 Always up for **hackathons, collaborations, and ambitious builds**  
+💬 Let’s talk about **tech, startups, or anything that challenges thinking**  
+
+⚡ Fun fact: I play guitar — it’s where I go when I want to solve problems without a compiler 🎸  
 
 
-<p align="center">
+
+---
+
+
+<!-- <p align="center">
   <img src="https://i.pinimg.com/1200x/82/84/7a/82847a22a2f7c680ac55348568306281.jpg" 
        alt="Coding GIF" 
        />
-</p>
+</p> -->
