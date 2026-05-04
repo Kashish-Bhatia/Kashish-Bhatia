@@ -48,8 +48,8 @@
 ---
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://i.pinimg.com/1200x/82/84/7a/82847a22a2f7c680ac55348568306281.jpg" 
        alt="Coding GIF" 
        />
-</p> -->
+</p>
